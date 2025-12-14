@@ -1,3 +1,5 @@
+https://github.com/Kushagra-create-blip/Spotify_data/blob/main/spotify_logo.jpg
+
 ## Overview
 This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
 
@@ -174,3 +176,4 @@ This optimization shows how indexing can drastically reduce query time, improvin
 3. Insert the sample data into the respective tables.
 4. Execute SQL queries to solve the listed problems.
 5. Explore query optimization techniques for large datasets.
+
